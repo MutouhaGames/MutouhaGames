@@ -69,16 +69,6 @@ footer {
 .yt-button:hover {
   background-color: #cc0000;
   transform: scale(1.05);
-}
-.channel-box {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  padding: 30px;
-  background-color: #f9f9f9;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
 
 .channel-icon {
   width: 100px;
@@ -97,7 +87,7 @@ footer {
   font-size: 14px;
   color: #333;
 }
-.videos-box {
+.box {
   display: flex;
   align-items: center;
   gap: 20px;
